@@ -1,0 +1,2 @@
+C:\Users\delma\source\repos\DataStructures\Debug\DataStructures.exe
+C:\Users\delma\source\repos\DataStructures\Debug\DataStructures.pdb
